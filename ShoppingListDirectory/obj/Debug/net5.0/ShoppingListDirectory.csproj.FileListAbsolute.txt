@@ -1,0 +1,16 @@
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\bin\Debug\net5.0\ShoppingListDirectory.exe
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\bin\Debug\net5.0\ShoppingListDirectory.deps.json
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\bin\Debug\net5.0\ShoppingListDirectory.runtimeconfig.json
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\bin\Debug\net5.0\ShoppingListDirectory.runtimeconfig.dev.json
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\bin\Debug\net5.0\ShoppingListDirectory.dll
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\bin\Debug\net5.0\ref\ShoppingListDirectory.dll
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\bin\Debug\net5.0\ShoppingListDirectory.pdb
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\obj\Debug\net5.0\ShoppingListDirectory.csproj.AssemblyReference.cache
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\obj\Debug\net5.0\ShoppingListDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\obj\Debug\net5.0\ShoppingListDirectory.AssemblyInfoInputs.cache
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\obj\Debug\net5.0\ShoppingListDirectory.AssemblyInfo.cs
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\obj\Debug\net5.0\ShoppingListDirectory.csproj.CoreCompileInputs.cache
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\obj\Debug\net5.0\ShoppingListDirectory.dll
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\obj\Debug\net5.0\ref\ShoppingListDirectory.dll
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\obj\Debug\net5.0\ShoppingListDirectory.pdb
+C:\Users\kart\source\repos\DirectoriesAndFiles\ShoppingListDirectory\obj\Debug\net5.0\ShoppingListDirectory.genruntimeconfig.cache
